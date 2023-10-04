@@ -14,7 +14,9 @@
 
 ## Rotas
 Para teste de rotas:
+
 1. Baixe o [Insomnia](https://insomnia.rest/download)
+
 2. No Insomnia, clique em "Create" (ou "Criar") para criar um novo workspace.
 3. Na barra lateral esquerda, clique com o botão direito do mouse na pasta onde deseja importar o arquivo
 4. Selecione "Import/Export" (ou "Importar/Exportar") e, em seguida, "Import Data" (ou "Importar Dados").
