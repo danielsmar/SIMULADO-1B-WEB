@@ -19,7 +19,7 @@ Para teste de rotas:
 3. Na barra lateral esquerda, clique com o botão direito do mouse na pasta onde deseja importar o arquivo
 4. Selecione "Import/Export" (ou "Importar/Exportar") e, em seguida, "Import Data" (ou "Importar Dados").
 5. Navegue até o local onde o [arquivo](https://github.com/danielsmar/SIMULADO-1B-WEB/blob/main/Insomnia_2023-10-04.json) está armazenado em seu computador e selecione-o.
-6. Clique em "Open" (ou "Abrir") para importar o arquivo.
+6. Clique em "Open" (ou "Abrir") para importar o arquivo com as rotas.
 
 ## Licença
 
